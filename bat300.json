@@ -1,1 +1,1 @@
-{"baseurl": "http://localhost:3333/bat300/", "series": ["bat300.dcm"]}
+{"baseurl": "http://alembic-dcm.netlify.com/bat300/", "series": ["bat300.dcm"]}

@@ -1,1 +1,1 @@
-{"baseurl": "http://localhost:3333/heart/", "series": ["heart_from_codify.dcm"]}
+{"baseurl": "http://alembic-dcm.netlify.com/heart/", "series": ["heart_from_codify.dcm"]}
